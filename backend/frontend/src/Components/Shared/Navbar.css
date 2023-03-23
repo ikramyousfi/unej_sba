@@ -1,0 +1,27 @@
+.menu-nav{
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 20px 20px;
+gap:25px;
+background-color: #EEEE;
+border-radius: 30px;
+text-decoration: solid ;
+Font-style: Black;
+Font-size: 20px;
+}
+.Login{
+text-decoration: solid ;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 20px 20px;
+background: #5F8D4E;
+border-radius: 30px;
+Font-style: Black;
+Font-size: 20px;
+margin-left : 20px;
+}
+
