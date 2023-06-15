@@ -7,6 +7,7 @@ import Adhesions from "./Components/Adhesion/Adhesions";
 import {Routes,Route} from "react-router-dom";
 import Contactus from "./Components/Home/Contactus";
 import Login from "./Components/Shared/Login";
+import Admin from './Components/Admin/Admin'
 import React from 'react';
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
      <Route path="/Adhesions" element={<Adhesions/>}/>
      <Route path="/Contact" element={<Contactus/>}/>
      <Route path="/Login" element={<Login/>}/>
+     <Route path="/Admin" element={<Admin/>}/>
      </Routes>
      <Footer></Footer>
     </div>
