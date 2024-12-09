@@ -1,4 +1,4 @@
-- The website is designed to manage participants of the UNEJ organization in the Sidi Bel Abbès Wilaya.
+The website is designed to manage participants of the UNEJ organization in the Sidi Bel Abbès Wilaya.
 
 - It enables the organization's admin to Manage and review registered members.
 
